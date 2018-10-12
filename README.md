@@ -7,4 +7,4 @@
 `diskutil unmount [SD Card BSD Name]`
 
 ### 
-`sudo dd bs=1m if=[Raspbian file path] of=[SD Card BSD Name]`
+`sudo dd bs=1m if=[Raspbian img path] of=[SD Card BSD Name]`
